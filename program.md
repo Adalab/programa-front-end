@@ -24,8 +24,8 @@
   - Desarrollo de productos digitales
   - La profesión del desarrollador front-end
 - Recursos
-  - Buscar recursos sobre desarrollo de productos digitales
-  - Buscar recursos sobre la profesión de desarrollador
+  - Recursos sobre desarrollo de productos digitales
+  - Recursos sobre la profesión de desarrollador
 - Actividades
   - Revisar materiales extra de desarrollo de productos digitales y cómo funciona la web
   - Curso de Khan Academy: [Introducción a HTML][1]
@@ -34,45 +34,53 @@
 - Contenido
   - Arquitectura de una aplicación web
   - Páginas web VS. aplicaciones web
+  - El editor
 - Recursos
-  - Buscar recursos sobre cómo funciona la web
+  - Recursos sobre cómo funciona la web
 - Actividades
   - Revisar materiales extra de cómo funciona la web
   - Curso de Khan Academy: [Introducción a CSS][2]
+  - Curso de Khan Academy: [Más etiquetas HTML][3]
 
 ##### Sesión 1.3. Tecnologías de la web
 - Contenido
   - HTML, CSS y JavaScript
   - Cómo se relacionan para crear una web
-  - Ponerlo en un servidor web en Internet
 - Recursos
-  - Buscar forma sencilla de poner página en Internet
+  - Video recursos HTML y CSS
+  - Video intro a sublime
 - Actividades
   - Recursos sobre devtools
   - Instalar navegador y editor
   - Curso de Khan Academy: [Más etiquetas HTML][3]
+  - Curso de Khan Academy: [Propiedades CSS][4]
 
 ##### Sesión 1.4. Herramientas
 - Contenido
-  - El editor
   - Devtools: HTML y CSS
+  - Colores RGBA
 - Recursos
-  - Buscar recursos sobre devtools
+  - Tutorial devtools
+  - Tutorial Colores
 - Actividades
   - Empezar proyecto personal: mi página web
   - Curso de Khan Academy: [Propiedades CSS][4]
+  - Curso de Khan Academy: [Herramientas de desarrollo web][5]
 
 ##### Sesión 1.5. Proyecto
 - Contenido
-  - Stackoverflow
-  - MDN
+  - Poner la web en un servidor de Internet
+  - Otras herramientas: Stackoverflow y MDN
 - Recursos
+  - Buscar forma sencilla de poner página en Internet
   - Buscar recursos MDN
 - Actividades
+  - [Cómo quedará mi proyecto][9]
+  - [Manejando los archivos][10]
   - Seguir proyecto personal: mi página web
   - Preparar presentación del proyecto
 
-#### Módulo 2. Las bases de la web
+#### Módulo 2. Tecnologías web
 - Objetivos:
   1. Conocer más en detalle HTML5 y CSS3
   2. Conocer el terminal y control básico de versiones de código
@@ -84,8 +92,8 @@
   - Preparar estrategia de organización de feedback en las sesiones
 - Actividades
   - Revisar recursos de intro a HTML5 (nuevas etiquetas)
+  - Enlaces internos y proyecto con varias páginas
   - Implementar mejoras en su proyecto con el feedback recibido
-  - Curso de Khan Academy: [Herramientas de desarrollo web][5]
 
 ##### Sesión 2.2. HTML5
 - Contenido
@@ -122,13 +130,10 @@
 ##### Sesión 2.5. Pantallas negras
 - Contenido
   - La consola y control de versiones básico
-  - Publicar proyecto en Github Pages
 - Recursos
   - Guías básicas de git
-  - Cómo publicar en Github Pages
 - Actividades
   - Convertir la web en un portfolio personal con varias páginas
-  - Publicarlo en Github Pages
 
 #### Módulo 3. Diseño adaptado al dispositivo
 - Objetivos:
@@ -185,6 +190,10 @@
 
 
 ### Bloque II. Programación web
+- Objetivos:
+  1. Entender conceptos básicos de programación
+  2. Crearán programas sencillos integrados en una web
+  3. Aprenderán mecanismos de comunicación de datos en la web
 
 #### Módulo 4. Introducción a la programación
 - Objetivos:
@@ -204,6 +213,9 @@
 
 
 ### Bloque III. Proyectos web
+- Objetivos:
+  1. Aprenderán metodología para desarrollar proyectos con éxito
+  2. Usarán herramientas tecnológicas y de gestión para el desarrollo de un proyecto web
 
 #### Módulo 7. Aspectos avanzados de maquetación
 - Objetivos:
@@ -231,3 +243,5 @@
 [6]: https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties
 [7]: https://es.khanacademy.org/computing/computer-programming/html-css#more-css-selectors
 [8]: https://es.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css
+[9]: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
+[10]: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/Manejando_los_archivos

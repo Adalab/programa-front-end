@@ -62,17 +62,17 @@ El objetivo del programa es que las participantes sean capaces de realizar las s
   - Desarrollo de productos digitales
   - La profesión del desarrollador front-end
 - Actividades
-  - Ver [el video de Code.org](https://www.youtube.com/watch?v=Qhn48RekQeg) como motivación
+  - Ver el [video de Code.org](https://www.youtube.com/watch?v=Qhn48RekQeg) como motivación
   - Leer ["Growth Mindset o mentalidad de crecimiento"](https://soniacasalblog.wordpress.com/2011/01/24/fixed-y-growth-mindset-de-dweck/)
-  - Comenzar el curso de Khan Academy: [Introducción a HTML][1]
+  - Comenzar el curso de Khan Academy: [Introducción a HTML](https://es.khanacademy.org/computing/computer-programming/html-css#intro-to-html)
   - Aprender a utilizar las herramientas del curso:
-    - Leer [Software básico para programación web ](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/Instalacion_de_software_basico)
-    - Ver video de [Cómo usar Trello](https://www.youtube.com/watch?v=tOpBJnOifAc)
-    - Ver video de [Slack básico](https://www.youtube.com/watch?v=HoqBaFfwU38)
-    - Ver video de [Curso muy básico de Google Drive](https://www.youtube.com/watch?v=xDf_ZZO7RCU)
+    - Leer ["Software básico para programación web" ](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/Instalacion_de_software_basico) por MDN
+    - Ver ["Cómo usar Trello"](https://www.youtube.com/watch?v=tOpBJnOifAc)
+    - Ver ["Slack básico"](https://www.youtube.com/watch?v=HoqBaFfwU38)
+    - Ver ["Curso muy básico de Google Drive"](https://www.youtube.com/watch?v=xDf_ZZO7RCU)
 - Recursos extra
+  - Libro ["Introducción a XHTML"](http://librosweb.es/libro/xhtml/). Por si alguien prefiere aprender mediante lectura, en vez de cursos online
   - [Codecademy](https://www.codecademy.com/es/learn/web) curso online similar al de Khan Academy
-  - Libro ["Introducción a XHTML"](http://librosweb.es/libro/xhtml/). Por si alguien prefiere aprender mediante lectura en vez de cursos online.
 
 ##### Sesión 1.2. Como funciona la web
 
@@ -80,53 +80,51 @@ El objetivo del programa es que las participantes sean capaces de realizar las s
   - Arquitectura de una aplicación web
   - Páginas web VS. aplicaciones web
   - El editor
-- Recursos
-  - Recursos sobre cómo funciona la web
 - Actividades
-  - Revisar materiales extra de cómo funciona la web
-  - Curso de Khan Academy: [Introducción a CSS][2]
-  - Curso de Khan Academy: [Más etiquetas HTML][3]
+  - Realizar las siguientes secciones de Khan Academy:
+    - [Introducción a CSS](https://es.khanacademy.org/computing/computer-programming/html-css/#intro-to-css).
+    - [Más etiquetas HTML](https://es.khanacademy.org/computing/computer-programming/html-css#html-tags-continued)
+  - Ver ["Páginas web vs aplicaciones web"](https://www.youtube.com/watch?v=mg0T_Gb_Z1w)
+  - Ver ["Combinando HTML, CSS y JavaScript "](https://www.youtube.com/watch?v=vOf5bO0ehVg)
+  - Ver ["Uso básico de Sublime Text"](https://www.youtube.com/watch?v=B8h2iJa0Cm8)
+- Recursos extra
+  - Libro ["Introducción a CSS"](http://librosweb.es/libro/css/). Por si alguien prefiere aprender mediante lectura en vez de cursos online
 
 ##### Sesión 1.3. Tecnologías de la web
 
 - Contenido
   - HTML, CSS y JavaScript
   - Cómo se relacionan para crear una web
-- Recursos
-  - Video recursos HTML y CSS
-  - Video intro a sublime
 - Actividades
-  - Recursos sobre devtools
-  - Instalar navegador y editor
-  - Curso de Khan Academy: [Más etiquetas HTML][3]
-  - Curso de Khan Academy: [Propiedades CSS][4]
+  - Realizar las siguientes secciones de Khan Academy:
+    - [Propiedades de texto CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-text-properties)
+    - [Herramientas web](https://es.khanacademy.org/computing/computer-programming/html-css#web-development-tools)
+  - Explorar la página de [HTML Color Codes](http://htmlcolorcodes.com/es/#color-codes)
+  - Comenzar a pensar ideas para el proyecto personal
+- Recursos extra
+  - [CodeSchool Devtools Tutorial](http://discover-devtools.codeschool.com/chapters/1?locale=en). Para aprender más acerca de las herramientas para desarrolladores del navegador (en inglés)
 
 ##### Sesión 1.4. Herramientas
 
 - Contenido
   - Devtools: HTML y CSS
   - Colores RGBA
-- Recursos
-  - Tutorial devtools
-  - Tutorial Colores
 - Actividades
-  - Empezar proyecto personal: mi página web
-  - Curso de Khan Academy: [Propiedades CSS][4]
-  - Curso de Khan Academy: [Herramientas de desarrollo web][5]
+  - Leer ["Cómo quedará mi proyecto"](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like) para ver cómo crear un proyecto web.
+  - Leer ["Manejando los archivos"](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/Manejando_los_archivos) para saber cómo crear y estructurar los archivos de una web
+  - Leer ["Publish your website using github"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website#Publishing_via_GitHub) para saber cómo subir una web a GitHub (en inglés)
+  - Empezar con el proyecto de "Página personal" y publicarlo en GitHub
 
 ##### Sesión 1.5. Proyecto
 
 - Contenido
   - Poner la web en un servidor de Internet
   - Otras herramientas: Stackoverflow y MDN
-- Recursos
-  - Buscar forma sencilla de poner página en Internet
-  - Buscar recursos MDN
 - Actividades
-  - [Cómo quedará mi proyecto][9]
-  - [Manejando los archivos][10]
-  - Seguir proyecto personal: mi página web
+  - Seguir con el proyecto "Página personal"
   - Preparar presentación del proyecto
+  - Buscar las dudas que tengamos durante el proyecto en [StackOverflow en español](http://es.stackoverflow.com/)
+  - Usar [Mozilla Developer Network](https://developer.mozilla.org/es/) como documentación web
 
 #### Módulo 2. Tecnologías web
 
@@ -308,11 +306,6 @@ Otra forma de colaborar con este repositorio es [hacer un fork](https://help.git
 
 **Cualquier ayuda es bienvenida :)**
 
-[1]: https://es.khanacademy.org/computing/computer-programming/html-css#intro-to-html
-[2]: https://es.khanacademy.org/computing/computer-programming/html-css#intro-to-css
-[3]: https://es.khanacademy.org/computing/computer-programming/html-css#html-tags-continued
-[4]: https://es.khanacademy.org/computing/computer-programming/html-css#css-text-properties
-[5]: https://es.khanacademy.org/computing/computer-programming/html-css#web-development-tools
 [6]: https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties
 [7]: https://es.khanacademy.org/computing/computer-programming/html-css#more-css-selectors
 [8]: https://es.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css

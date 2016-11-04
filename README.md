@@ -132,28 +132,35 @@ El objetivo del programa es que las participantes sean capaces de realizar las s
   1. Conocer más en detalle HTML5 y CSS3
   2. Conocer el terminal y control básico de versiones de código
 
-##### Sesión 2.1. Proyectos
+##### Sesión 2.1. Presentación del proyecto
 
 - Contenido
   - Presentación de los proyectos desarrollados por las alumnas
-- Recursos
-  - Preparar estrategia de organización de feedback en las sesiones
+  - Correcciones y consejos acerca del trabajo realizado
+  - Evaluación semanal
 - Actividades
-  - Revisar recursos de intro a HTML5 (nuevas etiquetas)
-  - Enlaces internos y proyecto con varias páginas
-  - Implementar mejoras en su proyecto con el feedback recibido
+  - Implementar las mejoras en los proyectos y apuntarlas en un documento compartido en Drive
+  - Realizar las siguiente sección de Khan Academy: [Diseño CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
+  - Ver video de ["Posicionamiento web"](https://www.youtube.com/watch?v=13CbCpAnvYI)
+  - Ver ["Posicionamiento: Static" ](https://www.youtube.com/watch?v=whqnlupzpNk)
+  - Ver ["Posicionamiento: Relative"](https://www.youtube.com/watch?v=X6lG1biGJa8)
+  - Ver ["Posicionamiento: Absolute"](https://www.youtube.com/watch?v=wpuP2kCN6QE)
+  - Ver ["Posicionamiento: Float"](https://www.youtube.com/watch?v=AoAy4jCFDDw)
+  - Realizar los ejercicios de posicionamiento después de ver los videos.
+- Recursos extra
+  - Página web de ["Learn Layout"](http://es.learnlayout.com/). Para aprender sobre posicionamiento de forma gráfica e interactiva
 
-##### Sesión 2.2. HTML5
+##### Sesión 2.2. Modelo de cajas, posicionamiento y tamaño con CSS
 
 - Contenido
-  - HTML5: etiquetas semánticas
-- Recursos
-  - HMTL5 cheatsheets
-  - Linter
+  - Modelo de cajas
+  - Cambio en la dimensión de elementos con CSS
+  - Posicionamiento con `display`
+  - Cambio en la visibilidad de elementos con CSS
+  - Flotar elementos en un texto
 - Actividades
-  - Revisar recursos de posicionamiento CSS
-  - Curso de Khan Academy: [Diseño CSS][6]
-  - Usar HTML5 en su proyecto final
+  - Realizar las siguiente sección de Khan Academy: [selectores de CSS](https://es.khanacademy.org/computing/computer-programming/html-css#more-css-selectors)
+  - Realizar los cambios sugeridos en nuestro proyecto personal
 
 ##### Sesión 2.3. Posicionamiento CSS
 
@@ -164,7 +171,6 @@ El objetivo del programa es que las participantes sean capaces de realizar las s
   - CSS3
 - Actividades
   - Revisar recursos de flexbox
-  - Curso de Khan Academy: [Más selectores CSS][7]
   - Usar posicionamiento CSS en su proyecto final
 
 ##### Sesión 2.4. Flexbox
@@ -175,7 +181,7 @@ El objetivo del programa es que las participantes sean capaces de realizar las s
   - Flebox cheatsheets y ejemplos
 - Actividades
   - Ejercicios de flexbox
-  - Curso de Khan Academy: [Otras formas de incrustar CSS][8]
+  - Curso de Khan Academy: [Otras formas de incrustar CSS](https://es.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css)
   - Usar flebox en su proyecto final
 
 ##### Sesión 2.5. Pantallas negras
@@ -305,9 +311,3 @@ Siempre estamos abiertos a sugerencias acerca de como mejorar este programa. Si 
 Otra forma de colaborar con este repositorio es [hacer un fork](https://help.github.com/articles/fork-a-repo/) y enviarnos directamente un [pull request](https://help.github.com/articles/using-pull-requests/) para solucionar cualquier error que encuentres o añadir algún recurso o información.
 
 **Cualquier ayuda es bienvenida :)**
-
-[6]: https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties
-[7]: https://es.khanacademy.org/computing/computer-programming/html-css#more-css-selectors
-[8]: https://es.khanacademy.org/computing/computer-programming/html-css#more-ways-to-embed-css
-[9]: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
-[10]: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/Manejando_los_archivos

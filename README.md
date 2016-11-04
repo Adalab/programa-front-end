@@ -24,7 +24,7 @@ El objetivo principal es que las participantes adquieran las habilidades y conoc
 
 La duración estimada del programa es de tres meses. Durante estos meses se partirá del aprendizaje acerca de cómo funciona la web y el proceso de desarrollo de un producto, posteriormente se empezará con el aprendizaje y la práctica de programación, continuaremos con el aprendizaje de programación en JavaScript y, finalmente, haremos un repaso de las técnicas, herramientas y procesos que utilizan los desarrolladores profesionales hoy en día.
 
-El fin del curso es que todas las participantes sean capaces de realizar todas las tareas reflejadas en los [Objetivos generales](Objetivos generales)
+El fin del curso es que todas las participantes sean capaces de realizar todas las tareas reflejadas en los [Objetivos generales](#objetivos-generales)
 
 ## Sobre AdaLab
 

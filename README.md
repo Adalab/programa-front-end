@@ -61,12 +61,18 @@ El objetivo del programa es que las participantes sean capaces de realizar las s
 - Contenido
   - Desarrollo de productos digitales
   - La profesión del desarrollador front-end
-- Recursos
-  - Recursos sobre desarrollo de productos digitales
-  - Recursos sobre la profesión de desarrollador
 - Actividades
-  - Revisar materiales extra de desarrollo de productos digitales y cómo funciona la web
-  - Curso de Khan Academy: [Introducción a HTML][1]
+  - Ver [el video de Code.org](https://www.youtube.com/watch?v=Qhn48RekQeg) como motivación
+  - Leer ["Growth Mindset o mentalidad de crecimiento"](https://soniacasalblog.wordpress.com/2011/01/24/fixed-y-growth-mindset-de-dweck/)
+  - Comenzar el curso de Khan Academy: [Introducción a HTML][1]
+  - Aprender a utilizar las herramientas del curso:
+    - Leer [Software básico para programación web ](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/Instalacion_de_software_basico)
+    - Ver video de [Cómo usar Trello](https://www.youtube.com/watch?v=tOpBJnOifAc)
+    - Ver video de [Slack básico](https://www.youtube.com/watch?v=HoqBaFfwU38)
+    - Ver video de [Curso muy básico de Google Drive](https://www.youtube.com/watch?v=xDf_ZZO7RCU)
+- Recursos extra
+  - [Codecademy](https://www.codecademy.com/es/learn/web) curso online similar al de Khan Academy
+  - Libro ["Introducción a XHTML"](http://librosweb.es/libro/xhtml/). Por si alguien prefiere aprender mediante lectura en vez de cursos online.
 
 ##### Sesión 1.2. Como funciona la web
 

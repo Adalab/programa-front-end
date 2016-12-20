@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.flex { display: flex; }
+
+#header {
+  padding: 8px 24px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-item {
+  margin-left: 16px;
+  padding-top: 6px;
+  padding-bottom: 2px;
+  text-transform: uppercase;
+  color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+.menu-item.active {
+  color: #33D9C3;
+  border-bottom: 2px solid #33D9C3;
+}

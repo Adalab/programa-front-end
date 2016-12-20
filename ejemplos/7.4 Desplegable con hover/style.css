@@ -1,0 +1,7 @@
+.horario-martes {
+  display: none;
+}
+
+.martes:hover .horario-martes {
+  display: block;
+}

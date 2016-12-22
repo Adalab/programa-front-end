@@ -9,4 +9,4 @@ Vamos a ir constuyendo la funcionalidad progresivamente:
 1. En primer lugar pintamos un número cualquiera en pantalla.
 2. Generamos un número aleatorio entre 1 y 10 y lo pintamos en pantalla.
 3. Hacemos que cada vez que clickamos el botón, aparezca un nuevo número aleatorio en pantalla.
-4. Ahora, al clickar el botón aparece el texto "Mi número favorito es 5", siendo 5 el número aleatorio generado.
+4. Finalmente, vamos a modificar el comportamiento de nuestra aplicación. Al clickar el botón va a aparecer en el div el texto "Mi número favorito es" seguido de número aleatorio.

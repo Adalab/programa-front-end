@@ -1,0 +1,10 @@
+#numeroAleatorio{
+  height: 20%;
+  font-size: 4em;
+  margin-left: 1em;
+}
+
+button{
+  display: block;
+  text-align: center;
+}

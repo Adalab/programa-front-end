@@ -1,0 +1,10 @@
+{
+  "gitbook": "3.2.2",
+  "structure": {
+    "readme": "introduccion.md"
+  },
+  "title": "Curso de programación front-end",
+  "description": "Curso para chicas sin conocimientos técnicos previos que desean reinventarse como programadoras",
+  "author": "Adalab",
+  "language": "es"
+}

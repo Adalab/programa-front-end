@@ -5,7 +5,7 @@
 - [Introducción](#introduccion)
 - [Contenido](#contenido)
 - [Recursos extra](#recursos-extra)
-- [Lista de recursos](#lista-de-recursos)
+- [Lista de recursos](#lista-de-recursos-para-esta-sesion)
 
 ## Introducción
 

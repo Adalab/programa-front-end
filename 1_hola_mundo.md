@@ -20,13 +20,10 @@ Los objetivos de este bloque, al que de aquí en adelante llamaremos sprint _"Ho
 
 ## Proyectos
 
-A lo largo de este bloque desarrollaremos pequeños proyectos tanto de forma individual cómo en grupos:
+A lo largo de este bloque desarrollaremos un proyecto individual y otro en grupo, ambos para crear una página que mostrar de cara al público:
 
-- Individuales
-  - Página personal
-
-- Grupales
-  - Página grupal
+- Página personal
+- Página grupal
 
 ## Herramientas que aprenderemos a utilizar
 
@@ -57,6 +54,7 @@ Una parte fundamental de nuestro programa son los voluntarios. Estos colaborará
 
 Las charlas de voluntarios que tendremos durante este sprint son las siguientes:
 
-- "Animaciones CSS" por Eduardo Sada, de Kairos
+- "Diseño y UX" por Isa, de La Nave Nodriza (por confirmar)
+- "Organización de CSS" por Ignacio Villanueva, de Kubide
 - "Cómo ser una buena programadora" por Juan Alonso y Natalia Vidal, de Tecnilógica
 - “Integrarse en la comunidad” por Janire Paskua y Andrea Vega

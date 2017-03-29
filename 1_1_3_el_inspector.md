@@ -1,19 +1,32 @@
 # El inspector
 
-### Ejercicios
-- [Terminar la sección de más etiquetas HTML][1]
-- [Empezar con la sección de propiedades de texto CSS][2]
+## Índice de la sesión
 
-### Preparación para la siguiente sesión
-- [Herramientas web][3]
-- [codeschool devtools tutorial - EN][4]
-- [Tabla de colores][5]
+- [Introducción](#introduccion)
+- [Contenido](#contenido)
+- [Recursos extra](#recursos-extra)
+- [Lista de recursos](#lista-de-recursos)
 
-### Proyecto
-- Comenzar a pensar ideas para el proyecto personal
+## Contenido
 
-[1]: https://es.khanacademy.org/computing/computer-programming/html-css#html-tags-continued
-[2]: https://es.khanacademy.org/computing/computer-programming/html-css#css-text-properties
-[3]: https://es.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy
-[4]: http://discover-devtools.codeschool.com/chapters/1?locale=en
-[5]: http://htmlcolorcodes.com/es/#color-codes
+### Propiedades de texto CSS
+
+[Propiedades de texto CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-text-properties)
+
+### Usando las herramientas de desarrollador
+
+[Herramientas web](https://es.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/using-the-browser-developer-tools)
+
+## Recursos extra
+
+### Videos de las herramientas para desarrollores de Chrome
+
+[CodeSchool DevTools Tutorial en inglés](http://discover-devtools.codeschool.com/chapters/1?locale=en)
+
+## Lista de recursos para esta sesión
+
+- Contenido
+  - [Propiedades de texto CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-text-properties)
+  - [Herramientas web](https://es.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy)
+- Recursos extra
+  - [CodeSchool DevTools Tutorial en inglés](http://discover-devtools.codeschool.com/chapters/1?locale=en)

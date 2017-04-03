@@ -10,3 +10,5 @@
     * [1.1.1. Introducción al curso](1_1_1_introduccion_al_curso.md)
     * [1.1.2. La web y sus tecnologías](1_1_2_la_web_y_sus_tecnologias.md)
     * [1.1.3. El inspector](1_1_3_el_inspector.md)
+  * [1.2. Las bases de la web](1_2_design_con_css.md)
+    * [1.2.1. Display y el modelo de cajas](1_2_1_display_y_modelo_de_cajas.md)

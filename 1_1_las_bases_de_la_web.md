@@ -2,7 +2,7 @@
 
 ## Resumen
 
-Durante esta semana veremos los fundamentos de una web. Comenzaremos entendiendo cómo funciona, para continuar viendo las tecnologías a partir de la cual está creada y terminar aplicando el uso de esas tecnologías para crear nuestra primera web.
+Durante este bloque veremos los fundamentos de una web. Comenzaremos entendiendo cómo funciona, para continuar viendo las tecnologías a partir de la cual está creada y terminar aplicando el uso de esas tecnologías para crear nuestra primera web.
 
 Así mismo, durante este módulo obtendremos los conocimientos y recursos necesarios para saber dónde y como encontrar las soluciones a nuestras dudas y problemas y empezaremos a trabajar en cómo organizarnos con el resto de nuestro equipo.
 

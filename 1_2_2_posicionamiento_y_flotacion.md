@@ -9,7 +9,9 @@
 
 ## Introducción
 
-La propiedad `position` de CSS será la que nos permita cambiar
+La propiedad `position` de CSS será la que nos permita modificar la forma en la que se distribuyen los objetos a través de una página web. Aparte de modificar esa distribución, podremos hacer que cambien su comportamiento a la hora de hacer scroll en la página y que modifiquen la posición de otros objetos al modificar la suya propia.
+
+El atributo `position` es fundamental en las web actuales porque sin él todo el contenido sería lineal, es decir, no podríamos tener ciertas superposiciones y no podríamos sacar a un elemento de la posición que está dentro del flujo de la página.
 
 ## Contenido
 
@@ -36,9 +38,14 @@ Una vez sabido esto entenderíamos los conceptos básicos para saber cómo se co
 
 El libro de Introducción a CSS sirve muy bien para entender, mediante la lectura, los conceptos dados durante esta sesión. A continuación están listados algunos de los capítulos que van relacionados con el temario de esta sesión y lo explican de forma detallada.
 
-- [Libro Introducción a CSS - 5.1. Tipos de elementos](https://librosweb.es/libro/css/capitulo_5/tipos_de_elementos.html)
-- [Libro Introducción a CSS - 4. Modelo de cajas](https://librosweb.es/libro/css/capitulo_4.html)
-- [Libro de Introducción a CSS - 4.1. Anchura y altura](https://librosweb.es/libro/css/capitulo_4/anchura_y_altura.html)
+- [Libro Introducción a CSS - 5.2. Posicionamiento](http://librosweb.es/libro/css/capitulo_5/posicionamiento.html)
+- [Libro Introducción a CSS - 5.3. Posicionamiento normal (static)](http://librosweb.es/libro/css/capitulo_5/posicionamiento_normal.html)
+- [Libro de Introducción a CSS - 5.4 Posicionamiento relativo](http://librosweb.es/libro/css/capitulo_5/posicionamiento_relativo.html)
+- [Libro de Introducción a CSS - 5.5 Posicionamiento absoluto](http://librosweb.es/libro/css/capitulo_5/posicionamiento_absoluto.html)
+- [Libro de Introducción a CSS - 5.6 Posicionamiento fijo](http://librosweb.es/libro/css/capitulo_5/posicionamiento_fijo.html)
+- [Libro de Introducción a CSS - 5.7 Posicionamiento flotante](http://librosweb.es/libro/css/capitulo_5/posicionamiento_flotante.html)
+
+**Nota:** En la parte de posicion flotante es importante pensar que esto solo lo utilizaremos para trabajar con imágenes y nunca con otro tipo de elementos. Más adelante veremos que estilos debemos utilizar para conseguir este comportamiento en otros componentes y fuera de textos.
 
 ### Ejercicios
 

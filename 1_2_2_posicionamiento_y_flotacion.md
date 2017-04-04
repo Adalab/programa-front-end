@@ -19,7 +19,7 @@ En esta sesión finalizaremos la parte de _"Diseño CSS"_ del curso de Khan Acad
 
 Una vez sabido esto entenderíamos los conceptos básicos para saber cómo se colocan los elementos en una página web. Más adelante veremos otros conceptos más avanzados y métodos para, en función de la posición, poder configurar las distancias entre elementos para colocarlos tal y como queremos. Hasta entonces, con esto tendremos la base para saber cómo se va a comportar un elemento en función de cómo lo hayamos posicionado y cuál sea sus propiedades `display`, `width`, `height` y overflow.
 
-[Diseño CSS (continuación)][https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties]
+[Diseño CSS (continuación)](https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
 
 ### Posicionamiento
 

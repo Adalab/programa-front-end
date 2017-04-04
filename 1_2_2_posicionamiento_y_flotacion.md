@@ -57,7 +57,7 @@ Si alguien quiere y tiene tiempo, puede realizar los ejercicios de este [documen
 A continuación aparecen todos los recursos de esta sesión, para tenerlos todos concentrados y que sea más fácil buscarlos:
 
 - Contenido
-  - [Diseño CSS][https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties]
+  - [Diseño CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
 - Recursos extra
   - Libro de Introducción a CSS
     - [Libro Introducción a CSS - 5.1. Tipos de elementos](https://librosweb.es/libro/css/capitulo_5/tipos_de_elementos.html)

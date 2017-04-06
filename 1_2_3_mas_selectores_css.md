@@ -16,8 +16,6 @@ Durante esta sesión veremos únicamente la sección del curso de Khan Academy d
 
 Hasta ahora hemos aprendido los selectores de CSS básicos, con esta sección aprenderemos a seleccionar elementos de forma más compleja.
 
-Una vez sabido esto entenderíamos los conceptos básicos para saber cómo se colocan los elementos en una página web. Más adelante veremos otros conceptos más avanzados y métodos para, en función de la posición, poder configurar las distancias entre elementos para colocarlos tal y como queremos. Hasta entonces, con esto tendremos la base para saber cómo se va a comportar un elemento en función de cómo lo hayamos posicionado y cuál sea sus propiedades `display`, `width`, `height` y overflow.
-
 [Más selectores CSS](https://es.khanacademy.org/computing/computer-programming/html-css#more-css-selectors)
 
 ## Lista de recursos

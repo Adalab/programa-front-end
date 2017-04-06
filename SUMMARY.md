@@ -14,3 +14,4 @@
     * [1.2.1. Display y el modelo de cajas](1_2_1_display_y_modelo_de_cajas.md)
     * [1.2.2. Posicionamiento y flotación](1_2_2_posicionamiento_y_flotacion.md)
     * [1.2.3. Más selectores CSS](1_2_3_mas_selectores_css.md)
+    * [1.2.4. Flexbox](1_2_4_flexbox.md)

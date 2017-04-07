@@ -35,6 +35,10 @@ Durante esta sesión veremos cómo distribuir los elementos en una página usand
 
 [Ejercicios para reforzar de flexbox](https://docs.google.com/document/d/10U8ngNMrzlZQAA5cZDCjK11UU6KRyx5TyU24uJbBPew/edit)
 
+### Página interactiva para aprender flexbox
+
+[Página interactiva para aprender flexbox](http://codepen.io/enxaneta/full/adLPwv/)
+
 ### Guía completa de Flexbox (inglés)
 
 [Guía completa de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -52,3 +56,5 @@ A continuación aparecen todos los recursos de esta sesión, para tenerlos todos
     - [Flexbox defense - juego (inglés)](flexboxdefense.com)
 - Recursos adicionales
   - [Ejercicios para reforzar de flexbox](https://docs.google.com/document/d/10U8ngNMrzlZQAA5cZDCjK11UU6KRyx5TyU24uJbBPew/edit)
+  - [Página interactiva de flexbox](http://codepen.io/enxaneta/full/adLPwv/)
+  - [Guía completa de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

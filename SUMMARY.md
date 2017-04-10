@@ -17,4 +17,4 @@
     * [1.2.3. Más selectores CSS](1_2_3_mas_selectores_css.md)
     * [1.2.4. Flexbox](1_2_4_flexbox.md)
   * [1.3. Responsive design](1_3_1_introduccion_al_design_responsive.md)
-    * [1.3.1 Introducción al responsive design](1_3_1_introduccion_al_design_responsive.md)
+    * [1.3.1 Introducción al responsive design](1_3_1_introduccion_al_responsive_design.md)

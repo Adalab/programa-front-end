@@ -22,7 +22,7 @@ Durante esta sesión veremos cómo distribuir los elementos en una página usand
 
 [Flexbox froggy - juego](http://flexboxfroggy.com/#es)
 
-[Flexbox defense - juego (inglés)](flexboxdefense.com)
+[Flexbox defense - juego (inglés)](http://www.flexboxdefense.com/)
 
 
 ### Recursos para realizar la página por equipos

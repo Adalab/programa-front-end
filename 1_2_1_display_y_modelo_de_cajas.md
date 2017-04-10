@@ -17,12 +17,6 @@ Por último, aprenderemos cómo modificar el tamaño de los distintos componente
 
 ## Contenido
 
-### Diseño CSS
-
-Continuamos con el curso de Khan Academy de desarrollo web con HTML y CSS, en esta ocasión con la sección de Diseño CSS. En esta parte del curso veremos los fundamentos de estilos necesarios para darle mejor apariencia visual a una página web. La idea de esta sesión es realizar hasta la lección _"Desafío: el modelo bóxer"_. Si alguna quiere continuar hasta _"Desafío: coloca al planeta"_ puede hacerlo pero es recomendable una vez terminadas las lecciones anteriores consultar el resto de recursos y los recursos extra para asentar los conocimientos.
-
-[Diseño CSS (al menos hasta la mitad)][https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties]
-
 ### Revisión de errores en la página personal
 
 Una de las mejores formas de aprender es revisar el código de nuestras compañeras o el nuestro propio con alguna de ellas para ver que errores encuentra esa persona y aprender cómo podemos corregirlo.
@@ -30,6 +24,21 @@ Una de las mejores formas de aprender es revisar el código de nuestras compañe
 Una vez realizado ese ejercicio de aprendizaje de nuestros errores, la mejor manera de compartirlos e interiorizarlos es escribirlos. De esta forma también podremos consultarlos si en el futuro volvemos a caer en la trampa.
 
 Para ver los errores, os aconsejo que reviseis la página personal junto a alguna de vuestras compañeras y compartais las diferencias y los errores que ha podido cometer la otra persona. Posteriormente podeis apuntar esos errores en el documento que hay compartido en la carpeta de Google Drive y que se llama _"Mejoras en la web personal"_. De ahí sacaremos los errores más frecuentes y los revisaremos en la siguiente sesión.
+
+### Ejercicios para practicar con display
+
+Para practicar lo aprendido durante esta sesión lo mejor sería realizar los ejercicios del siguiente documento. [documento](https://docs.google.com/document/d/1Kzac6nQ-IGgrrHO24HQDcecsO0tkQ7RvSqfbjXeBqqw/edit?usp=sharing). Si no sabeis realizar alguno no pasa nada pero intentadlo, buscad info en internet y probad, probad y probad, es la mejor forma de aprender. Si no encontrais info en internet podeis preguntarnos cualquier duda.
+
+### Terminar la primera mitad de Diseño CSS
+
+Para esta sesión, si no habeis terminado esta sección de Khan Academy, lo ideal sería terminarla durante hoy para que el resto de contenido que veamos durante la semana no se os atragante y os sature.
+
+Si alguna quiere continuar hasta _"Desafío: coloca al planeta"_ puede hacerlo pero es recomendable una vez terminadas las lecciones anteriores consultar el resto de recursos y los recursos extra para asentar los conocimientos.
+
+**Nota:** De momento con llegar hasta la mitad vale, si alguna tiene asentados los conocimientos y quiere continuar puede hacerlo pero sería mejor realizar esta sección después de terminar con los ejercicios propuestos y
+
+[Diseño CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
+
 
 ## Recursos extra
 
@@ -47,6 +56,7 @@ A continuación aparecen todos los recursos de esta sesión, para tenerlos todos
 
 - Contenido
   - [Diseño CSS](https://es.khanacademy.org/computing/computer-programming/html-css#css-layout-properties)
+  - [Ejercicios para practicar con display](https://docs.google.com/document/d/1Kzac6nQ-IGgrrHO24HQDcecsO0tkQ7RvSqfbjXeBqqw/edit?usp=sharing)
 - Recursos extra
   - Libro de Introducción a CSS
     - [Libro Introducción a CSS - 5.1. Tipos de elementos](https://librosweb.es/libro/css/capitulo_5/tipos_de_elementos.html)

@@ -18,3 +18,4 @@
     * [1.2.4. Flexbox](1_2_4_flexbox.md)
   * [1.3. Responsive design](1_3_1_introduccion_al_design_responsive.md)
     * [1.3.1 Introducción al responsive design](1_3_1_introduccion_al_responsive_design.md)
+    * [1.3.2 Media queries](1_3_2_media_queries.md)

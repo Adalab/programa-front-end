@@ -1,4 +1,4 @@
-# Posicionamiento y flotación
+# Más selectores CSS
 
 ## Índice de la sesión
 

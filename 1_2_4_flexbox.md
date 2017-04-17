@@ -16,8 +16,6 @@ Durante esta sesión veremos cómo distribuir los elementos en una página usand
 
 [Introducción a flexbox: menos densa](https://www.youtube.com/watch?v=F-KCncXMPk0)
 
-[Taller de flexbox](https://www.youtube.com/watch?v=job5SOuS7Ko)
-
 ### Juegos para aprender flexbox
 
 [Flexbox froggy - juego](http://flexboxfroggy.com/#es)
@@ -35,6 +33,10 @@ Durante esta sesión veremos cómo distribuir los elementos en una página usand
 
 [Ejercicios para reforzar de flexbox](https://docs.google.com/document/d/10U8ngNMrzlZQAA5cZDCjK11UU6KRyx5TyU24uJbBPew/edit)
 
+### Taller de flexbox
+
+[Taller de flexbox](https://www.youtube.com/watch?v=job5SOuS7Ko)
+
 ### Página interactiva para aprender flexbox
 
 [Página interactiva para aprender flexbox](http://codepen.io/enxaneta/full/adLPwv/)
@@ -50,11 +52,11 @@ A continuación aparecen todos los recursos de esta sesión, para tenerlos todos
 - Contenido
   - Teoría para aprender flexbox
     - [Introducción a flexbox: menos densa](https://www.youtube.com/watch?v=F-KCncXMPk0)
-    - [Taller de flexbox](https://www.youtube.com/watch?v=job5SOuS7Ko)
   - Juegos para aprender flexbox
     - [Flexbox froggy - juego](http://flexboxfroggy.com/#es)
     - [Flexbox defense - juego (inglés)](flexboxdefense.com)
 - Recursos adicionales
+  - [Taller de flexbox](https://www.youtube.com/watch?v=job5SOuS7Ko)
   - [Ejercicios para reforzar de flexbox](https://docs.google.com/document/d/10U8ngNMrzlZQAA5cZDCjK11UU6KRyx5TyU24uJbBPew/edit)
   - [Página interactiva de flexbox](http://codepen.io/enxaneta/full/adLPwv/)
   - [Guía completa de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

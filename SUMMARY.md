@@ -23,3 +23,4 @@
     * [2.1. Introducción a la programación](2_1_intro_a_la_programacion.md)
       * [2.1.1 Introducción a JavaScript](2_1_1_intro_a_javascript.md)
         * [Valores y tipos en JavaScript](2_1_1_1_valores_y_tipos.md)
+      * [2.1.2 Estructuras de control](2_1_2_estructuras_de_control.md)

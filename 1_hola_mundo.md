@@ -54,7 +54,5 @@ Una parte fundamental de nuestro programa son los voluntarios. Estos colaborará
 
 Las charlas de voluntarios que tendremos durante este sprint son las siguientes:
 
-- "Diseño y UX" por Isa, de La Nave Nodriza (por confirmar)
-- "Organización de CSS" por Ignacio Villanueva, de Kubide
 - "Cómo ser una buena programadora" por Juan Alonso y Natalia Vidal, de Tecnilógica
 - “Integrarse en la comunidad” por Janire Paskua y Andrea Vega

@@ -1,4 +1,4 @@
-# Introducción a JavaScript
+# Estructuras de control
 
 ## Índice de la sesión
 

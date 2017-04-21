@@ -24,3 +24,4 @@
       * [2.1.1 Introducción a JavaScript](2_1_1_intro_a_javascript.md)
         * [Valores y tipos en JavaScript](2_1_1_1_valores_y_tipos.md)
       * [2.1.2 Estructuras de control](2_1_2_estructuras_de_control.md)
+      * [2.1.3 Estructuras de datos](2_1_3_estructuras_de_datos.md)

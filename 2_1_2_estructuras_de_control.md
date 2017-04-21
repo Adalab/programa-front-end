@@ -5,6 +5,7 @@
 - [Introducción](#introduccion)
 - [Contenido](#contenido)
 - [Recursos extra](#recursos-extra)
+- [Guión de la clase](#guion-de-la-clase)
 - [Lista de recursos](#lista-de-recursos)
 
 ## Introducción
@@ -51,6 +52,15 @@ Si os gustó este curso, podeis continuar con él y retomar el proceso que empez
 En este caso, este curso difiere en el orden en el que enseña las cosas de la estructura de temario que seguimos en Adalab. Los videos que pueden servir para reforzar lo aprendido durante esta sesión podrían ser los que van del número 11 al 14. No lo recomiendo porque dá por sabido otros conocimientos que no hemos visto y puede liar un poco, pero lo dejo como recurso extra por si a alguien le interesa.
 
 [Curso de JavaScript en YouTube (Lista de reproducción)](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID)
+
+## Guión de la clase
+
+- Quizz (condicionales y bucles)
+- Seguimiento de progreso de las alumnas sobre estructuras de control
+- Resolución de dudas sobre estructuras de control
+- Ejercicio años bisiestos del módulo 1 del curso de Miriadax
+- Ejercicio sobre cartas pares del módulo 1 del curso de Miriadax
+- Ejercicios restantes del módulo 1 del curso de Miriadax
 
 ## Lista de recursos
 

@@ -2,7 +2,7 @@
 
 ## Índice de la sesión
 
-- [Introducción](#introduccion)
+- [Introducción](#introducción)
 - [Contenido](#contenido)
 - [Recursos extra](#recursos-extra)
 - [Lista de recursos](#lista-de-recursos)

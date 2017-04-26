@@ -14,7 +14,7 @@ Durante esta sesión veremos cómo ejecutar un bloque de código en varios punto
 
 ### Curso de intro a la programación en Miriadax
 
-Durante esta sesión veremos las estructuras de control básicas para trabajar
+Durante esta sesión veremos las librerías de JavaScript y cómo la web nos ofrece ciertas herramientas para trabajar con los datos y el contenido de la web.
 
 Continuación con el módulo 5, como mínimo, del curso _"Introducción a la programación "_ de MiriadaX.
 

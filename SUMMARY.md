@@ -29,3 +29,4 @@
     * [2.1.5. Librerías de código](2_1_5_librerias_de_codigo.md)
   * [2.2. Introducción al DOM](2_1_introduccion_al_dom.md)
     * [2.2.1. La web como conjunto de objetos](2_2_1_la_web_como_conjunto_de_objetos.md)
+    * [2.2.2. Formularios y la terminal](2_2_2_formularios_y_terminal.md)

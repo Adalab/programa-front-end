@@ -31,8 +31,9 @@
     * [2.2.1. La web como conjunto de objetos](2_2_1_la_web_como_conjunto_de_objetos.md)
     * [2.2.2. Formularios y la terminal](2_2_2_formularios_y_terminal.md)
   * [2.3. Aspectos avanzados de JavaScript]()
-    * [2.2.1. La web como conjunto de objetos](2_2_1_la_web_como_conjunto_de_objetos.md)
-    * [2.3.3. Métodos avanzados de JavaScript](2_3_3_metodos_avanzados.md)
+    * [2.3.1. Métodos avanzados de JavaScript](2_3_1_metodos_avanzados.md)
+    * [2.3.2. Métodos avanzados de JavaScript](2_3_2_scope_y_hoisting.md)
+
 
 ----
 

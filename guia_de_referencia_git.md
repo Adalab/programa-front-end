@@ -32,7 +32,9 @@
 
 #### 1. Comprobar que Git está instalado y actualizado
 
-Antes de realizar los comandos de abajo es importante que sepas que tras ejecutarlos te pedirá que introduzcas la contraseña de tu ordenador. A medida que la escribas no aparecerá nada por seguridad, así no se verá tu contraseña. Aunque no se muestre nada, puedes teclear tu contraseña y pulsar intro y, si es correcta, procederá con la ejecución de los comandos.
+##### En Ubuntu
+
+**Importante:** Antes de realizar los comandos de abajo es importante que sepas que tras ejecutarlos te pedirá que introduzcas la contraseña de tu ordenador. A medida que la escribas no aparecerá nada por seguridad, así no se verá tu contraseña. Aunque no se muestre nada, puedes teclear tu contraseña y pulsar intro y, si es correcta, procederá con la ejecución de los comandos.
 
 Primero abrimos la terminal e introducimos el comando de abajo y pulsamos intro. Esto nos permitirá actualizar Git en caso de que no esté actualizado ya:
 
@@ -46,11 +48,30 @@ Después utilizaremos este comando para instalar herramientas adicionales de Git
 sudo apt-get install git-all
 ```
 
+##### En Mac
+
+
+**Importante:** Antes de realizar los comandos de abajo es importante que sepas que tras ejecutarlos te pedirá que introduzcas la contraseña de tu ordenador. A medida que la escribas no aparecerá nada por seguridad, así no se verá tu contraseña. Aunque no se muestre nada, puedes teclear tu contraseña y pulsar intro y, si es correcta, procederá con la ejecución de los comandos.
+
+Primero abrimos la terminal e introducimos el comando de abajo y pulsamos intro. Esto nos permitirá instalar un gestor de paquetes en Mac llamado `Homebrew`, que nos ayudará a instalar herramientas como Git de forma sencilla. Al pulsar intro, se empezarán a imprimir lineas en nuestra Terminal y nos pedirá que pulsemos Intro para continuar con la instalación del gestor de paquetes, este gestor es de código abierto, seguro y está mantenido por una gran comunidad, por lo que no tenemos por qué preocuparnos:
+
+```shell
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Despues de haber instalado `Homebrew`, podremos instalar la última versión de Git de forma simple con el siguiente comando:
+
+```shell
+brew install git
+```
+
+Una vez haya terminado de instalarse Git, tendremos todo listo para continuar con el siguiente paso.
+
 #### 2. Añadimos nuestro nombre a la configuración de Git
 
 Abrimos la aplicación de la terminal e introducimos el siguiente comando, tal y como se muestra abajo, sustituyendo `"John Doe"` por nuestro nombre y pulsamos intro para que se ejecute el comando.
 
-**Nota: Siempre escribiremos nuestro nombre entre comillas para evitar problemas a la hora de ejecutar el comando**
+**Importante:** Siempre escribiremos nuestro nombre entre comillas para evitar problemas a la hora de ejecutar el comando
 
 ```shell
 git config --global user.name "John Doe"
@@ -66,13 +87,18 @@ git config --global user.email "johndoe@example.com"
 
 Sustituiremos en este caso `"johndoe@example.com"` por el email que hemos utilizado para crear nuestra cuenta de GitHub.
 
-**Nota: Es importante que el email coincida ya que GitHub lo utilizará para comprobar nuestros credenciales a la hora de subir información a un repositorio y mostrar**
+**Nota:** Es importante que el email coincida ya que GitHub lo utilizará para comprobar nuestros credenciales a la hora de subir información a un repositorio y mostrar
 
 #### 4. Añadimos la configuración para que se guarde nuestra contraseña para GitHub
 
-Por defecto, cada vez que intentamos conectarnos con GitHub, el servidor de GitHub nos pedirá la contraseña de nuestro usuario. Como vamos a subir y descargar cambios de GitHub de forma constante, puede ser un poco molesto tener que introducir la contraseña cada vez que queramos conectarnos con el servidor. Para evitar esto, vamos a almacenar la contraseña de forma segura en nuestro ordenador. Esto lo haremos ejecutando los siguientes comandos, uno por uno:
+Por defecto, cada vez que intentamos conectarnos con GitHub, el servidor de GitHub nos pedirá la contraseña de nuestro usuario. Como vamos a subir y descargar cambios de GitHub de forma constante, puede ser un poco molesto tener que introducir la contraseña cada vez que queramos conectarnos con el servidor. Para evitar esto, vamos a almacenar la contraseña de forma segura en nuestro ordenador.
+
+##### En Ubuntu
+
+Para poder almacenar la contraseña de GitHub en Ubuntu, realizaremos los siguientes comandos uno por uno:
 
 1. `sudo apt-get install libgnome-keyring-dev`
+1. Nos solicitará una contraseña, aquí debemos introducir la contraseña de nuestro ordenador, no la de GitHub.
 1. `cd /usr/share/doc/git/contrib/credential/gnome-keyring`
 1. `sudo make`
 1. `cd -`
@@ -80,6 +106,15 @@ Por defecto, cada vez que intentamos conectarnos con GitHub, el servidor de GitH
 
 Al hacer esto, la próxima vez que introduzcamos nuestra contraseña de GitHub, esta se almacenará de forma segura en nuestro ordenador y no será necesario volver a introducirla de nuevo.
 
+##### En Mac
+
+Para poder almacenar la contraseña de GitHub en Mac, simplemente ejecutamos el siguiente comando:
+
+```shell
+git config --global credential.helper osxkeychain
+```
+
+Una vez hayamos realizado ese paso, no necesitaremos hacer ningún cambio más.
 
 ## Clonar un repositorio ya existente en nuestro ordenador
 

@@ -36,6 +36,7 @@
 * [3. Aportar y colaborar]()
   * [3.2. Objetos y asincronía en JavaScript]()
     * [3.2.1. this, objetos y prototipos](3_2_1_this_objetos_y_prototipos.md)
+    * [3.2.2. Asincronía](3_2_2_asincronia.md)
 
 
 ----

@@ -15,6 +15,8 @@ Durante esta sesión veremos aspectos avanzados de los objetos y métodos difere
 
 ### Objetos. Repaso y aprendizaje de nuevos métodos para crearlos
 
+Para repasar cómo funcionan los objetos en JavaScript, veremos los videos que van desde el 27 al 32 de esta playlist.
+
 - [Playlist de videos sobre objetos en JavaScript](https://www.youtube.com/watch?v=ycfoaxNhYbk&index=27&list=PLI7nHlOIIPOJtTDs1HVJABswW-xJcA7_o)
 
 ### Uso de `this` en JavaScript

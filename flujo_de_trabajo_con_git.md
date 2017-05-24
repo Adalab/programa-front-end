@@ -1,7 +1,7 @@
 ## Flujo de trabajo con Git
 
 - [Crear un repositorio en GitHub](#crear-un-repositorio-en-github)
-- [Realizar cambios usando Git](#realizar-cambios-usando-git)
+- [Realizar cambios en un repositorio](#realizar-cambios-en-un-repositorio)
 - [Crear un repositorio en nuestro ordenador](#crear-un-repositorio-en-nuestro-ordenador)
 - [Clonar un repositorio en nuestro ordenador](#clonar-un-repositorio-en-nuestro-ordenador)
 - [Mostrar el código de nuestro repositorio en una web](#mostrar-el-código-de-nuestro-repositorio-en-una-web)

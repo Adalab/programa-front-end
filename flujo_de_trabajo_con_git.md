@@ -24,6 +24,7 @@
 
 1. Abrimos el Terminal y, usando el comando `cd`, nos colocamos dentro de la carpeta donde queramos inicializar (Ejemplo: `cd Escritorio/mi-repositorio`).
 1. Ejecutamos desde la Terminal el comando `git init` para convertir la carpeta en un repositorio. Se creará la carpeta oculta `.git`.
+1. Si no tenemos archivos en la carpeta podemos crear uno nuevo o pegar archivos desde otra carpeta. Debemos añadir al menos un archivo para poder hacer un commit.
 1. Utilizamos `git add <nombreDelArchivo>` para marcar que cambios que meteremos en la siguiente versión cuando hagamos el commit. Si queremos añadir todos los cambios realizados en la carpeta del repositorio usaremos `git add .`.
 1. Usamos `git commit -m "Mensaje del commit"` para realizar el primer commit del repositorio, la primera version.
 1. Enlazamos nuestro repositorio con el servidor usando `git remote add origin <URLDelServidor>`. Donde `<URLDelServidor>` será la URL de nuestro repo seguida de `.git`. (Ejemplo: `git remote add origin https://github.com/adalab/programa-front-end.git`). Si no tenemos un repositorio remoto, podemos crearlo con los [pasos para crear un repositorio en GitHub](#crear-un-repositorio-en-github).

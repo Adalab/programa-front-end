@@ -29,6 +29,14 @@ Para repasar cómo funcionan los objetos en JavaScript, veremos los videos que v
 
 [Entendiendo this en JavaScript](https://medium.com/entendiendo-javascript/entendiendo-this-javascript-cba60c8cec8c)
 
+### Curso de Object-oriented JavaScript en Udacity (inglés)
+
+[Object-oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+
+### Alternativa más densa para entender la orientación a objetos en JavaScript, los prototipos y las funciones constructoras
+
+[Playlist de videos sobre objetos en JavaScript](https://www.youtube.com/watch?v=czceiR4Y8Rg&index=24&list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx)
+
 ## Lista de recursos
 
 - Contenido

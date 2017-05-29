@@ -46,3 +46,5 @@ Para repasar cómo funcionan los objetos en JavaScript, veremos los videos que v
     - [Uso de `this` en JavaScript](https://www.youtube.com/watch?v=bPkHGeR1kIY)
 - Recursos extra
   - [Entendiendo this en JavaScript](https://medium.com/entendiendo-javascript/entendiendo-this-javascript-cba60c8cec8c)
+  - [Curso de Object-oriented JavaScript en Udacity](https://www.udacity.com/course/object-oriented-javascript--ud015)
+  - [Playlist de videos sobre objetos en JavaScript](https://www.youtube.com/watch?v=czceiR4Y8Rg&index=24&list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx)

@@ -11,6 +11,8 @@
 
 Durante esta sesión veremos aspectos avanzados de los objetos y métodos diferentes de crearlos para obtener beneficios a la hora de trabajar con ellos.
 
+A su vez descubriremos cómo funciona la palabra clave `this` en JavaScript y sus valores dependiendo del caso determinado en el que se utilice.
+
 ## Contenido
 
 ### Objetos. Repaso y aprendizaje de nuevos métodos para crearlos

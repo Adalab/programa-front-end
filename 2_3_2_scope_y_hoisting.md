@@ -1,4 +1,4 @@
-# Métodos avanzados de JavaScript
+# Hoisting, scope y closures
 
 ## Índice de la sesión
 

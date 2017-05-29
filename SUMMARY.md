@@ -32,7 +32,7 @@
     * [2.2.2. Formularios y la terminal](2_2_2_formularios_y_terminal.md)
   * [2.3. Aspectos avanzados de JavaScript]()
     * [2.3.1. Métodos avanzados de JavaScript](2_3_1_metodos_avanzados.md)
-    * [2.3.2. Métodos avanzados de JavaScript](2_3_2_scope_y_hoisting.md)
+    * [2.3.2. Hoisting, scope y closures](2_3_2_scope_y_hoisting.md)
 * [3. Aportar y colaborar]()
   * [3.2. Objetos y asincronía en JavaScript]()
     * [3.2.1. this, objetos y prototipos](3_2_1_this_objetos_y_prototipos.md)

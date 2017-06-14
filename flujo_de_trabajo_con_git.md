@@ -6,11 +6,11 @@
 - [Crear un repositorio en nuestro ordenador](#crear_un_repositorio_en_nuestro_ordenador)
 - [Deshacer los cambios realizados en un archivo](#deshacer_los_cambios_realizados_en_un_archivo)
 - [Mostrar el código de nuestro repositorio en una web](#mostrar_el_código_de_nuestro_repositorio_en_una_web)
-- [Realizar cambios en un repositorio](#realizar_cambios_en_un_repositorio)
+- [Realizar cambios en un repositorio sin usar ramas](#realizar_cambios_en_un_repositorio)
 - [Resolver conflictos generados al subir cambios al repositorio remoto](#resolver_conflictos_generados_al_subir_cambios_al_repositorio remoto)
 - [Sacar un archivo de staging](#sacar_un_archivo_de_staging)
 - [Ver los cambios internos de un archivo desde el último commit](#ver_los_cambios_internos_de_un_archivo_desde_el_último_commit)
-
+- [Trabajar con ramas](#trabajar_con_ramas)
 
 ## Añadir más cambios a un commit ya creado
 
@@ -69,7 +69,7 @@
 1. Usamos `git checkout -` para volver a colocarnos en la rama donde estábamos trabajando, suele ser la rama `master` normalmente.
 
 
-## Realizar cambios en un repositorio
+## Realizar cambios en un repositorio sin usar ramas
 
 1. Antes de empezar a hacer cambios, debemos tener listo un repositorio en nuestro ordenador. Para ello:
   - Podemos [clonar un repositorio](#clonar-un-repositorio-en-nuestro-ordenador) ya existente desde alguna plataforma como GitHub
@@ -108,3 +108,23 @@
 1. Ejecutamos `git diff <rutalDelArchivo>` donde ruta del archivo será la ruta del archivo en el cuál queremos comprobar los cambios realizados.
 1. Si el archivo es muy largo, tendremos que usar las flechas de nuestro teclado (`↑` o `↓`) para ver todos los cambios correctamente.
 1. En este mismo caso en el que los cambios son muy largos, introduciremos `:` y posteriormente `q` para que deje de mostrar la información de los cambios. Si no hacemos esto, no podremos seguir trabajando con la Terminal. La otra opción sería cerrar y volver a abrir la Terminal pero es un proceso más tedioso.
+
+## Trabajar con ramas
+
+1. Creamos una nueva rama y nos colocamos en ella usando `git checkout -b nombre-de-la-rama`, donde sustituiremos `nombre-de-la-rama` por el nombre que queráis utilizar para vuestra rama. El nombre debe ser sin espacios y separado por guiones.
+1. Hacemos los cambios que queramos en los archivos.
+1. Utilizamos `git add <nombreDelArchivo>` para marcar que cambios que meteremos en la siguiente versión cuando hagamos el commit. Si queremos añadir todos los cambios realizados en la carpeta del repositorio usaremos `git add .`. Si hemos eliminado algún archivo, Git nos dirá que debemos usar `git add --all .` para llevar seguimiento también de los cambios en archivos eliminados.
+1. Usamos `git commit -m "Mensaje del commit"` para realizar el commit.
+1. Ejecutamos `git fetch origin` para descargar los cambios que se hayan realizado en el repositorio remoto (el que está en el servidor). Estos cambios se descargarán pero no se aplicarán a nuestra rama actual ni a ninguna de las otras.
+1. Ejecutamos el comando `git rebase origin/master` para aplicar los cambios de la rama master del servidor en nuestra rama actual. Este comando lo que hará será crear una copia del estado de la rama master en nuestra rama y colocar nuestros commits por delante de esos cambios, de tal forma que parecerá que estos se han aplicado posteriormente.
+1. Si al ejecutar el comando anterior no nos aparece ningún conflicto podremos continuar con el siguiente paso. Si por el contrario, la consola muestra conflicto a la hora de hacer el rebase, deberemos seguir los pasos aquí descritos:
+  1. Ejecutamos git status para ver que archivos tienen conflictos, aquellos que se listen con un `both modified` o `modificado por ambos` serán los conflictivos y deberemos abrirlos para ver cuál es el conflicto en concreto y poder resolverlo.
+  1. Realizamos los cambios que queramos en los archivos para resolver los conflictos
+  1. Utilizamos `git add <nombreDelArchivo>` para marcar que cambios que meteremos en la siguiente versión cuando hagamos el commit. Si queremos añadir todos los cambios realizados en la carpeta del repositorio usaremos `git add .`. Si hemos eliminado algún archivo, Git nos dirá que debemos usar `git add --all .` para llevar seguimiento también de los cambios en archivos eliminados.
+  1. Ejecutamos `git rebase --continue` para continuar con el siguiente paso del rebase, si hay mas pasos y alguno de ellos tiene algún conflicto deberemos realizar este mismo proceso, sino automáticamente se terminará el proceso de rebase.
+1. Una vez hecho el rebase, ya tendríamos la rama lista para ser enviada al servidor. Utilizaremos `git push -u origin nombre-de-la-rama` para llevarlo a cabo.
+1. Al subir la rama al repositorio remoto, si abrimos la página de GitHub del proyecto nos aparecerá un mensaje para crear un nuevo Pull Request, pulsamos en él y seguimos los pasos para realizarlo.
+1. Una vez creado el pull request, alguien de nuestro equipo deberá validarlo y, posteriormente, si los cambios están bien podremos mergearlo, es decir, añadir los cambios de la rama que hemos creado a la rama `master`. Todo esto lo haremos a través de la plataforma de GitHub
+1. Cuando hayamos hecho el merge, deberemos volver a situarnos en la rama master en el repositorio que tenemos en local (en nuestro ordenador). Esto lo conseguimos usando `git checkout master`.
+1. Una vez estemos en la rama master, usaremos `git pull origin master` para descargar los cambios del merge y otros cambios que hubiese en remoto.
+1. Para finalizar, eliminamos la rama que habíamos creado porque, al haber hecho el merge, ya no será necesaria y podremos deshacernos de ella. Eliminaremos la rama usando `git branch -d nombre-de-la-rama`.

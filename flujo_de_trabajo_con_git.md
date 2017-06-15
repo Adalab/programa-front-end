@@ -1,16 +1,16 @@
 # Flujo de trabajo con Git
 
-- [Añadir más cambios a un commit ya creado](#añadir_más_cambios_a_un_commit_ya_creado)
-- [Clonar un repositorio en nuestro ordenador](#clonar_un_repositorio_en_nuestro_ordenador)
-- [Crear un repositorio en GitHub](#crear_un_repositorio_en_github)
-- [Crear un repositorio en nuestro ordenador](#crear_un_repositorio_en_nuestro_ordenador)
-- [Deshacer los cambios realizados en un archivo](#deshacer_los_cambios_realizados_en_un_archivo)
-- [Mostrar el código de nuestro repositorio en una web](#mostrar_el_código_de_nuestro_repositorio_en_una_web)
-- [Realizar cambios en un repositorio sin usar ramas](#realizar_cambios_en_un_repositorio)
-- [Resolver conflictos generados al subir cambios al repositorio remoto](#resolver_conflictos_generados_al_subir_cambios_al_repositorio remoto)
-- [Sacar un archivo de staging](#sacar_un_archivo_de_staging)
-- [Ver los cambios internos de un archivo desde el último commit](#ver_los_cambios_internos_de_un_archivo_desde_el_último_commit)
-- [Trabajar con ramas](#trabajar_con_ramas)
+- [Añadir más cambios a un commit ya creado](#añadir-más-cambios-a-un-commit-ya-creado)
+- [Clonar un repositorio en nuestro ordenador](#clonar-un-repositorio-en-nuestro-ordenador)
+- [Crear un repositorio en GitHub](#crear-un-repositorio-en-github)
+- [Crear un repositorio en nuestro ordenador](#crear-un-repositorio-en-nuestro-ordenador)
+- [Deshacer los cambios realizados en un archivo](#deshacer-los-cambios-realizados-en-un-archivo)
+- [Mostrar el código de nuestro repositorio en una web](#mostrar-el-código-de-nuestro-repositorio-en-una-web)
+- [Realizar cambios en un repositorio sin usar ramas](#realizar-cambios-en-un-repositorio)
+- [Resolver conflictos generados al subir cambios al repositorio remoto](#resolver-conflictos-generados-al-subir-cambios-al-repositorio remoto)
+- [Sacar un archivo de staging](#sacar-un-archivo-de-staging)
+- [Ver los cambios internos de un archivo desde el último commit](#ver-los-cambios-internos-de-un-archivo-desde-el-último-commit)
+- [Trabajar con ramas](#trabajar-con-ramas)
 
 ## Añadir más cambios a un commit ya creado
 

@@ -111,7 +111,7 @@
 
 ## Trabajar con ramas
 
-1. Creamos una nueva rama y nos colocamos en ella usando `git checkout -b nombre-de-la-rama`, donde sustituiremos `nombre-de-la-rama` por el nombre que queráis utilizar para vuestra rama. El nombre debe ser sin espacios y separado por guiones.
+1. Con `git checkout -b nombre-de-la-rama` creamos una nueva rama y nos colocamos en ella. En este comando, sustituiremos `nombre-de-la-rama` por el nombre que queráis utilizar para vuestra rama. El nombre debe ser sin espacios y separado por guiones.
 1. Hacemos los cambios que queramos en los archivos.
 1. Utilizamos `git add <nombreDelArchivo>` para marcar que cambios que meteremos en la siguiente versión cuando hagamos el commit. Si queremos añadir todos los cambios realizados en la carpeta del repositorio usaremos `git add .`. Si hemos eliminado algún archivo, Git nos dirá que debemos usar `git add --all .` para llevar seguimiento también de los cambios en archivos eliminados.
 1. Usamos `git commit -m "Mensaje del commit"` para realizar el commit.
